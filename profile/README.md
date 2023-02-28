@@ -1,4 +1,12 @@
-![OpenVoiceOS](https://openvoiceos.com/wp-content/uploads/2020/10/loading400.png)
+# We need your help
+With MycroftAI reduced to a skeleton crew, and the transfer of most development operations to Neon, we've decided to become a nonprofit association under Dutch law. OpenVoiceOS will be registered as OpenVoiceOS V.z.w. (Dutch: "Vereninging zonder winstoogmerk", a nonprofit association, as distinguished from a foundation.) The association will support the OVOS community in legal and financial matters by securing donations of cash, hardware, and other relevant aid. These donations will be used to facilitate software development, promotion, and support.
+
+To establish the association and equip it with a positive balance for ongoing expenses, we have determined that we need to raise €3033. We’re deeply grateful for any support. You can chip in at our GoFundMe campaign;
+
+https://www.gofundme.com/f/openvoiceos
+
+Sharing is caring and is very much appreciated. Please help us spread the word.
+<br><hr>
 # OpenVoiceOS
 OpenVoiceOS is a free and open-source personal assistant and smart speaker that offers a powerful and flexible alternative to proprietary solutions like Amazon Echo and Google Home. At the same time, it is also an open-source virtual assistant platform that enables developers and organizations to create custom voice-controlled applications. With its cutting-edge technology and user-friendly design, OpenVoiceOS is revolutionizing the way we interact with technology.
 

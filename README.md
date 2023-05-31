@@ -13,4 +13,4 @@ At this moment development is in very early stages and focussed on the Raspberry
 * [Forum thread @ Mycroft A.I.](https://community.mycroft.ai/t/openvoiceos-a-bare-minimal-production-type-of-os-based-on-buildroot/4708)
 * [Matrix Chat rooms](https://matrix.to/#/!XFpdtmgyCoPDxOMPpH:matrix.org?via=matrix.org)
 
-Visit [openvoiceos.com](https://openvoiceos.com) to learn more!
+Visit [openvoiceos.org](https://openvoiceos.org) to learn more!
